@@ -27,7 +27,7 @@ const foodItems = [
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-01-12%20at%2012.32.42%20PM-QicgA83ZI0TfZlOynDOqlhOGnbwzEv.jpeg",
     title: "Fresh Orange Juice With Basil Seed",
-    price: 12.99,
+    price: 13.99,
     type: "Veg",
   },
   {

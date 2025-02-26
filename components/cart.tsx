@@ -18,7 +18,7 @@ export function Cart() {
       <div className="p-4 border-b flex justify-between items-center">
         <div>
           <h2 className="text-xl font-bold">Table 4</h2>
-          <p className="text-sm text-gray-500">Floyd Miles</p>
+          <p className="text-sm text-gray-500">Brian Manoti</p>
         </div>
         <Button variant="ghost" size="icon">
           <Edit2 className="h-5 w-5" />

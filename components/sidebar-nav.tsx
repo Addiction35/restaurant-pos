@@ -29,7 +29,7 @@ export function SidebarNav() {
           </Button>
         ))}
       </nav>
-      <Button variant="ghost" className="w-full justify-start mt-auto text-gray-600 absolute bottom-4">
+      <Button variant="ghost" className="justify-start mt-auto text-gray-600 absolute bottom-8">
         <LogOut className="mr-2 h-4 w-4" />
         Logout
       </Button>
